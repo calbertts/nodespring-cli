@@ -1,0 +1,24 @@
+{
+  "name": "nodespring-cli",
+  "version": "0.0.1",
+  "description": "Command Line Tool for NodeSpring projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calbertts/nodespring-cli.git"
+  },
+  "keywords": [
+    "nodespring",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "calbertts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calbertts/nodespring-cli/issues"
+  },
+  "homepage": "https://github.com/calbertts/nodespring-cli#readme"
+}
